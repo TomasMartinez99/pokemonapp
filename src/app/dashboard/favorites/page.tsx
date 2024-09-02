@@ -1,4 +1,5 @@
-import FavoriteWidget from "@/components/favorite/favoriteWidget";
+import { FavoriteWidget } from "@/components/favorite/FavoriteWidget";
+import { IoHeartOutline } from "react-icons/io5";
 
 export const metadata = {
     title: 'Favoritos',
